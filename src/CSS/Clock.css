@@ -1,0 +1,10 @@
+.clock-container {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 100%;
+    text-align: center;
+    padding: 20px 0;
+    background-color: #f8f8f8;
+}
